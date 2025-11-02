@@ -7,7 +7,6 @@ Java 8 ou superior instalado no seu computador
 
 Para verificar se você tem Java instalado, abra o terminal/prompt de comando e digite:
 
-text
 java -version
 📥 Download e Execução
 Baixe o jogo:
