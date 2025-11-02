@@ -10,7 +10,9 @@ Java 8 ou superior instalado no seu computador
 Para verificar se você tem Java instalado, abra o terminal/prompt de comando e digite:
 
 java -version
+
 📥 Download e Execução
+
 Baixe o jogo:
 
 Faça o download do arquivo INCONDONATUS.jar deste repositório
@@ -22,8 +24,11 @@ Método 1 (Recomendado): Clique duas vezes no arquivo INCONDONATUS.jar
 Método 2 (Terminal):
 
 bash
+
 java -jar INCONDONATUS.jar
+
 🎯 Controles do Jogo
+
 Seta Esquerda/Direita: Mover personagem
 
 Seta Para Cima: Pular
@@ -37,6 +42,7 @@ Tecla B: Atirar (apenas na fase do chefão)
 Não deixe ele fugir.
 
 💡 Dicas
+
 Use o dash estrategicamente para atravessar blocos especiais
 
 Cada fase tem seu próprio desafio único
@@ -44,6 +50,7 @@ Cada fase tem seu próprio desafio único
 Você tem 3 vidas por fase (sistema separado para o chefão)
 
 🐛 Problemas Comuns
+
 Se o jogo não abrir ao clicar duas vezes:
 
 Verifique se o Java está instalado
@@ -57,6 +64,7 @@ Certifique-se de que seu Java está atualizado
 Execute o jogo novamente
 
 📁 Para Desenvolvedores
+
 Se você quiser explorar o código-fonte ou modificar o jogo, a pasta do projeto completo está disponível neste repositório com todos os arquivos .java e recursos.
 
 *Desenvolvido por Gabriel Fontoura - 3°A - 2025*
