@@ -39,7 +39,7 @@ Tecla B: Atirar (apenas na fase do chefão)
 
 🎯 Objetivo
 
-Não deixe ele fugir.
+Será que você consegue bater o recorde mundial?
 
 💡 Dicas
 
