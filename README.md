@@ -41,6 +41,8 @@ Tecla B: Atirar (apenas na fase do chefão)
 
 Será que você consegue bater o recorde mundial?
 
+4:45
+
 💡 Dicas
 
 Use o dash estrategicamente para atravessar blocos especiais
