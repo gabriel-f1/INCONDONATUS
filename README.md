@@ -41,7 +41,7 @@ Tecla B: Atirar (apenas na fase do chefão)
 
 Será que você consegue bater o recorde mundial?
 
-4:45
+2:51
 
 💡 Dicas
 
